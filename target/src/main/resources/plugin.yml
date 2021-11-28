@@ -1,7 +1,0 @@
-main: me.TurtlesAreHot.WorldRandomizer.Main
-name: WorldRandomizer
-version: 1.0.0
-description: World player join randomizer
-author: TurtlesAreHot
-api-version: 1.13
-depend: [Multiverse-Core]
